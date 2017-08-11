@@ -1,0 +1,9 @@
+# 配置收发件人
+to_address : ['panyuanyuan@keking.cn','2928905265@qq.com']
+# 发件人163的用户名和密码
+sender_name : 'panyuanyuan@keking.cn'
+sender_pswd : 'pyy11qqww22'
+#发送邮件服务器
+host : mail.keking.cn
+#发送邮件的主题
+subject : u"TMS API自动化测试报告"
